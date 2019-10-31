@@ -1,4 +1,4 @@
-// uprajnenie.cpp : This file contains the 'main' function. Program execution begins and ends there.
+p// uprajnenie.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
 #include <iostream>
@@ -29,7 +29,7 @@ int main()
 		cout << num1 / num2 << endl;
 		break;
 	
-	default: //in case the input for the operator is anything different than the secified symbols
+	default: //in case the input for the operator is anything different than the specified symbols
 		cout << "Invalid operator" << endl;
 
 
